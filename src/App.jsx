@@ -9,7 +9,6 @@ import Footer from "./components/Footer";
 import PlayReel from "./components/PlayReel";
 import LocomotiveScroll from 'locomotive-scroll';
 
-
 export const contextMenu = createContext(null);
 
 
